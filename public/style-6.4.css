@@ -1,0 +1,43 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+
+img{
+    border: 5px solid rgb(255, 255, 255);
+    width: 100%;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+h1[draggable]{
+    color: rgb(255, 255, 255);
+}
+
+
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+
+}
+
+.class{
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
